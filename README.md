@@ -6,7 +6,7 @@
 
 1) [Supermarket Customer Behavior Project](https://github.com/gormezhatice/2Market_Customer_Behavior_Analysis)
 2) [NHS Optimization Project](https://github.com/gormezhatice/Optimizing_Healthcare_Access_and_Resources_in_the_NHS/tree/main)
-3) [Game Company Sales Performance Project(https://github.com/gormezhatice/Turtle_Games_Sales_Analytics)
+3) [Game Company Sales Performance Project](https://github.com/gormezhatice/Turtle_Games_Sales_Analytics)
 
 # 👋 Data Analyst | 💻 Python, SQL, RStudio, Excel, Tableau
 #### About Me: An International and Multilingual Journey
