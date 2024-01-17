@@ -1,7 +1,7 @@
 
 <img width="1081" alt="Screenshot 2024-01-09 at 16 33 15" src="https://github.com/gormezhatice/gormezhatice/assets/133010718/0cce2210-1462-4b4c-9989-dcb40941e3c2">
 
-## Project Portfolio:
+## Portfolio
 ### Explore my previous projects and technical expertise. View Projects
 
 1) [Supermarket Customer Behavior Project](https://github.com/gormezhatice/2Market_Customer_Behavior_Analysis)
