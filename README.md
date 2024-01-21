@@ -1,7 +1,23 @@
 
 <img width="1081" alt="Screenshot 2024-01-09 at 16 33 15" src="https://github.com/gormezhatice/gormezhatice/assets/133010718/0cce2210-1462-4b4c-9989-dcb40941e3c2">
 
-## Portfolio
+# Hi there, I'm Hatice! 👋
+
+I'm a Data Analyst with proficiency in various tools and technologies. Here's a glimpse of my skills:
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=R&logoColor=white)](https://rstudio.com/)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
+
+Let's connect and explore the world of data together!
+
+### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatice-gormez-764788143/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gormezhatice4@gmail.com)
+
 ### Explore my previous projects and technical expertise. View Projects
 
 1) [Supermarket Customer Behavior Project](https://github.com/gormezhatice/2Market_Customer_Behavior_Analysis)
@@ -11,7 +27,6 @@
 3) [Game Company Sales Performance Project](https://github.com/gormezhatice/Turtle_Games_Sales_Analytics)
    + Python | R
 
-# 👋 Data Analyst | 💻 Python, SQL, RStudio, Excel, Tableau
 #### About Me: An International and Multilingual Journey
 
 As an international and multilingual individual, I am a dedicated and passionate learner who initiated my academic journey in Turkey.
