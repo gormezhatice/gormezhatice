@@ -26,6 +26,8 @@ Let's connect and explore the world of data together!
    + Python
 3) [Game Company Sales Performance Project](https://github.com/gormezhatice/Turtle_Games_Sales_Analytics)
    + Python | R
+4) [Thoughtworks Consultancy Project](https://github.com/gormezhatice/London_Transport_Consultancy)
+   + Python
 
 #### About Me: An International and Multilingual Journey
 
