@@ -18,7 +18,7 @@ Let's connect and explore the world of data together!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatice-gormez-764788143/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gormezhatice4@gmail.com)
 
-### Explore my previous projects and technical expertise. View Projects
+### Explore my previous projects and technical expertise
 
 1) [Supermarket Customer Behavior Project](https://github.com/gormezhatice/2Market_Customer_Behavior_Analysis)
    + Excel | SQL | Tableau
@@ -39,7 +39,7 @@ In the pursuit of knowledge, I proudly obtained my undergraduate degree in Inter
 
 #### MBA Pursuit in the UK
 
-Motivated by my international exposure, I ventured to the UK to pursue an MBA in International Marketing. My interest in sales and marketing grew from part-time roles during college, which I continued throughout my MBA, culminating in the successful completion of my masters with merit. The onset of the global COVID-19 pandemic during the final semester of my masters presented unprecedented challenges. Opting to stay in London, I dedicated myself to my MBA studies and seized an internship opportunity amid the lockdown. Navigating through the uncertainties and pressures of the pandemic, I emerged as a more resilient individual, both personally and professionally.
+Motivated by my international exposure, I ventured to the UK to pursue an MBA in International Marketing. My interest in sales and marketing grew from part-time roles during college, which I continued throughout my MBA, culminating in the successful completion of my master's with merit. The onset of the global COVID-19 pandemic during the final semester of my masters presented unprecedented challenges. Opting to stay in London, I dedicated myself to my MBA studies and seized an internship opportunity amid the lockdown. Navigating through the uncertainties and pressures of the pandemic, I emerged as a more resilient individual, both personally and professionally.
 
 #### Passion for Technology and Transition into Data Analytics
 
