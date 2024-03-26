@@ -5,11 +5,11 @@
 
 I'm a Data Analyst with proficiency in various tools and technologies. Here's a glimpse of my skills:
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=R&logoColor=white)](https://rstudio.com/)
-[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4479A1)](https://www.postgresql.org/)
+[![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=R&logoColor=white&labelColor=75AADB)](https://rstudio.com/)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=217346)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=E97627)](https://www.tableau.com/)
 
 Let's connect and explore the world of data together!
 
